@@ -1,2 +1,2 @@
-# FSO-palautus
- FullStackOpen-kurssin tehtävien palautusrepo
+# Osa 2
+FullStackOpen-kurssin osan 2 palautuskansio
